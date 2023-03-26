@@ -1,0 +1,9 @@
+body {
+  font-family: 'Helvetica', sans-serif;
+  background-image: linear-gradient(to bottom, #fcb045, #fd1d1d, #833ab4);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
